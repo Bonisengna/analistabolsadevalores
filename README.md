@@ -6,7 +6,7 @@ Projeto educacional em Python para estudar análise fundamentalista, ciência de
 
 ## Tags
 
-`python` `vibecoding` `vibecode` `machine-learning` `data-science` `finance` `b3` `fundamental-analysis`
+`python` `vibrcoding` `vibecoding` `vibecode` `machine-learning` `data-science` `finance` `b3` `fundamental-analysis`
 
 ## Objetivo
 
